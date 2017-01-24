@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\04_DrawFilledSquare\04_DrawFilledSquare\bin\Debug\04_DrawFilledSquare.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\04_DrawFilledSquare\04_DrawFilledSquare\bin\Debug\04_DrawFilledSquare.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\04_DrawFilledSquare\04_DrawFilledSquare\bin\Debug\04_DrawFilledSquare.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\04_DrawFilledSquare\04_DrawFilledSquare\obj\Debug\04_DrawFilledSquare.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingFundamentals\04_Methods\04_DrawFilledSquare\04_DrawFilledSquare\obj\Debug\04_DrawFilledSquare.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\04_DrawFilledSquare\04_DrawFilledSquare\obj\Debug\04_DrawFilledSquare.pdb

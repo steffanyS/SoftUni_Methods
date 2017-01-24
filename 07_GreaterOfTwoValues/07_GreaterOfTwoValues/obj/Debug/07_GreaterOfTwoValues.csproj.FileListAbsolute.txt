@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\07_GreaterOfTwoValues\07_GreaterOfTwoValues\bin\Debug\07_GreaterOfTwoValues.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\07_GreaterOfTwoValues\07_GreaterOfTwoValues\bin\Debug\07_GreaterOfTwoValues.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\07_GreaterOfTwoValues\07_GreaterOfTwoValues\bin\Debug\07_GreaterOfTwoValues.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\07_GreaterOfTwoValues\07_GreaterOfTwoValues\obj\Debug\07_GreaterOfTwoValues.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\07_GreaterOfTwoValues\07_GreaterOfTwoValues\obj\Debug\07_GreaterOfTwoValues.pdb

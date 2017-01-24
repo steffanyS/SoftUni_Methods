@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\08_MultiplyEvensByOdds\08_MultiplyEvensByOdds\bin\Debug\08_MultiplyEvensByOdds.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\08_MultiplyEvensByOdds\08_MultiplyEvensByOdds\bin\Debug\08_MultiplyEvensByOdds.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\08_MultiplyEvensByOdds\08_MultiplyEvensByOdds\bin\Debug\08_MultiplyEvensByOdds.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\08_MultiplyEvensByOdds\08_MultiplyEvensByOdds\obj\Debug\08_MultiplyEvensByOdds.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\08_MultiplyEvensByOdds\08_MultiplyEvensByOdds\obj\Debug\08_MultiplyEvensByOdds.pdb

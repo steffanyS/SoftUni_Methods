@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\02_IntegerSign\02_IntegerSign\bin\Debug\02_IntegerSign.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\02_IntegerSign\02_IntegerSign\bin\Debug\02_IntegerSign.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\02_IntegerSign\02_IntegerSign\bin\Debug\02_IntegerSign.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\02_IntegerSign\02_IntegerSign\obj\Debug\02_IntegerSign.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingFundamentals\04_Methods\02_IntegerSign\02_IntegerSign\obj\Debug\02_IntegerSign.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\02_IntegerSign\02_IntegerSign\obj\Debug\02_IntegerSign.pdb

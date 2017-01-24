@@ -1,0 +1,1 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\10_PriceChangeAlert\10_PriceChangeAlert\bin\Debug\10_PriceChangeAlert.exe.config

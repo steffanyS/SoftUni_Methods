@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\09_Holidays\09_Holidays\bin\Debug\09_Holidays.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\09_Holidays\09_Holidays\bin\Debug\09_Holidays.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\09_Holidays\09_Holidays\bin\Debug\09_Holidays.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\09_Holidays\09_Holidays\obj\Debug\09_Holidays.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\09_Holidays\09_Holidays\obj\Debug\09_Holidays.pdb

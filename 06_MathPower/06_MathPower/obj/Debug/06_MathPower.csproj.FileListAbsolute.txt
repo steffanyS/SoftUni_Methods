@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\06_MathPower\06_MathPower\bin\Debug\06_MathPower.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\06_MathPower\06_MathPower\bin\Debug\06_MathPower.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\06_MathPower\06_MathPower\bin\Debug\06_MathPower.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\06_MathPower\06_MathPower\obj\Debug\06_MathPower.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\06_MathPower\06_MathPower\obj\Debug\06_MathPower.pdb

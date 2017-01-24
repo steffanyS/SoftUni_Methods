@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingFundamentals\04_Methods\03_PrintingTriangle\03_PrintingTriangle\bin\Debug\03_PrintingTriangle.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\03_PrintingTriangle\03_PrintingTriangle\bin\Debug\03_PrintingTriangle.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\03_PrintingTriangle\03_PrintingTriangle\bin\Debug\03_PrintingTriangle.pdb
+E:\SoftUni\ProgrammingFundamentals\04_Methods\03_PrintingTriangle\03_PrintingTriangle\obj\Debug\03_PrintingTriangle.exe
+E:\SoftUni\ProgrammingFundamentals\04_Methods\03_PrintingTriangle\03_PrintingTriangle\obj\Debug\03_PrintingTriangle.pdb
