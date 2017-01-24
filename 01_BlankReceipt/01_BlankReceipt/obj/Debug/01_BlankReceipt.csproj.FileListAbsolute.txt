@@ -1,1 +1,2 @@
 E:\SoftUni\ProgrammingFundamentals\04_Methods\01_BlankReceipt\01_BlankReceipt\bin\Debug\01_BlankReceipt.exe.config
+E:\SoftUni\ProgrammingFundamentals\04_Methods\SoftUni_Methods\01_BlankReceipt\01_BlankReceipt\bin\Debug\01_BlankReceipt.exe.config
